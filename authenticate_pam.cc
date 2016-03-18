@@ -27,7 +27,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 #include <cstring>
 #include <stdlib.h>
 
-#include <security/pam_appl.h>
+//#include <security/pam_appl.h>
 
 using namespace v8;
 
